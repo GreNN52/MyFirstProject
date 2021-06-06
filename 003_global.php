@@ -1,5 +1,5 @@
 <?php
-$global = 'Test';
+$global = 'Test for brances';
 
 
 function myFunction() {
